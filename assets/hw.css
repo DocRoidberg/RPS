@@ -1,0 +1,20 @@
+#rock {
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	margin: 5%;
+}
+
+#paper {
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	margin: 5%;
+}
+
+#scissors {
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	margin: 5%;
+}
